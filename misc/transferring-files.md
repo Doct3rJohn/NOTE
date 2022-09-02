@@ -17,3 +17,7 @@ copy \\$IP\<SHARE>\file.exe
 ```
 
 <figure><img src="../.gitbook/assets/copy-file-from-linux-into-windows-smb.png" alt=""><figcaption><p>Transferring files with SMB</p></figcaption></figure>
+
+## References
+
+* [https://blog.ropnop.com/transferring-files-from-kali-to-windows/#smb](https://blog.ropnop.com/transferring-files-from-kali-to-windows/#smb)

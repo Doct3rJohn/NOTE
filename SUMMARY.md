@@ -10,6 +10,7 @@
 ## 🕷 WEB HACKING
 
 * [SQL Injection](web-hacking/sql-injection.md)
+* [SSTI (Server Side Template Injection)](web-hacking/ssti-server-side-template-injection.md)
 * [IIS Server](web-hacking/iis-server.md)
 
 ## 🍀 Misc
