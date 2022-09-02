@@ -9,6 +9,8 @@
 
 ## 🕷 WEB HACKING
 
+* [CMS (Content Management System)](web-hacking/cms-content-management-system/README.md)
+  * [Wordpress](web-hacking/cms-content-management-system/wordpress.md)
 * [SQL Injection](web-hacking/sql-injection.md)
 * [SSTI (Server Side Template Injection)](web-hacking/ssti-server-side-template-injection.md)
 * [IIS Server](web-hacking/iis-server.md)
@@ -18,6 +20,7 @@
 * [Upgrade reverse shell](misc/upgrade-reverse-shell.md)
 * [Transferring files](misc/transferring-files.md)
 * [Cracking Stuff](misc/cracking-stuff.md)
+* [Hmmm](misc/hmmm.md)
 
 ## 🔮 Port & Services
 
