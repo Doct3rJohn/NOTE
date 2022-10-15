@@ -6,9 +6,7 @@ description: >-
 
 # Upgrade reverse shell
 
-## Upgrade the reverse shell
-
-### Upgrade using python
+## Python
 
 ```bash
 # This can be in either python3 or python2.
@@ -18,7 +16,7 @@ Ctrl + Z [background]
 -> export TERM=xterm
 ```
 
-### Upgrade using scripts
+## Scripts
 
 ```bash
 -> script /dev/null -c bash
