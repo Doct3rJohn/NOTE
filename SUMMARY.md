@@ -24,5 +24,7 @@
 
 ## 🔮 Port & Services
 
+* [21 - FTP](port-and-services/21-ftp.md)
+* [22 - SSH](port-and-services/22-ssh.md)
 * [139,445 - SMB](port-and-services/139-445-smb.md)
 * [5985,5986 - WinRM](port-and-services/5985-5986-winrm.md)
